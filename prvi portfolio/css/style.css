@@ -219,8 +219,9 @@ footer span:hover {
 	}
 
 	.project {
-		width: 29%;
+		width: 31%;
 		display: inline-block;
+
 	}
 
 	.project:nth-child(3n + 2) {
